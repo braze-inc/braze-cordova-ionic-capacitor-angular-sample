@@ -14,7 +14,7 @@ const config: CapacitorConfig = {
     // See the following links for available configuration keys:
     // - https://www.braze.com/docs/developer_guide/platforms/cordova/sdk_integration/#optional-configurations
     preferences: {
-      'com.braze.api_key': 'BRAZE_API_KEY',
+      'com.braze.ios_api_key': 'BRAZE_API_KEY',
       'com.braze.ios_api_endpoint': 'BRAZE_ENDPOINT',
       // Debug log level:
       'com.braze.ios_log_level': '0',
